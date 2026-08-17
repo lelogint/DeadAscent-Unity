@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature.001
+    m_Weight: 0
+  - m_Path: Armature.001/ArmPole.L
+    m_Weight: 0
+  - m_Path: Armature.001/ArmPole.R
+    m_Weight: 0
+  - m_Path: Armature.001/FootIK.L
+    m_Weight: 0
+  - m_Path: Armature.001/FootIK.R
+    m_Weight: 0
+  - m_Path: Armature.001/HandIK.L
+    m_Weight: 0
+  - m_Path: Armature.001/HandIK.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hip
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.L/Leg2.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.L/Leg2.L/Foot.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.L/Leg2.L/Foot.L/Toe.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.R/Leg2.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.R/Leg2.R/Foot.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Leg1.R/Leg2.R/Foot.R/Toe.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hip/Spine1
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Index1.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Index1.L/Index2.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Index1.L/Index2.L/Index3.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Middle1.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Middle1.L/Middle2.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Middle1.L/Middle2.L/Middle3.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L/Pinky0.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L/Pinky0.L/Pinky1.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L/Pinky0.L/Pinky1.L/Pinky2.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L/Pinky0.L/Pinky1.L/Pinky2.L/Pinky3.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L/Ring1.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L/Ring1.L/Ring2.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Middle0.L/Ring0.L/Ring1.L/Ring2.L/Ring3.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Thumb1.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Thumb1.L/Thumb2.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Hand.L/Thumb1.L/Thumb2.L/Thumb3.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/HandRoot.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.L/Arm2.L/Sword.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Index1.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Index1.R/Index2.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Index1.R/Index2.R/Index3.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Middle1.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Middle1.R/Middle2.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Middle1.R/Middle2.R/Middle3.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R/Pinky0.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R/Pinky0.R/Pinky1.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R/Pinky0.R/Pinky1.R/Pinky2.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R/Pinky0.R/Pinky1.R/Pinky2.R/Pinky3.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R/Ring1.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R/Ring1.R/Ring2.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Middle0.R/Ring0.R/Ring1.R/Ring2.R/Ring3.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Sword.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Thumb1.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Thumb1.R/Thumb2.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/Hand.R/Thumb1.R/Thumb2.R/Thumb3.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Arm1.R/Arm2.R/HandRoot.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Neck
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Neck/Eyebrow.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Neck/Eyebrow.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/Neck/Mouth
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/ShoulderArmour.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/ShoulderArmour.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hip/Spine1/Spine2/SwordBack
+    m_Weight: 1
+  - m_Path: Armature.001/LegPole.L
+    m_Weight: 1
+  - m_Path: Armature.001/LegPole.R
+    m_Weight: 1
+  - m_Path: ArmPart
+    m_Weight: 1
+  - m_Path: ArmPart.001
+    m_Weight: 1
+  - m_Path: ArmPart.002
+    m_Weight: 1
+  - m_Path: ArmPart.003
+    m_Weight: 1
+  - m_Path: ArmStrap
+    m_Weight: 1
+  - m_Path: Chest
+    m_Weight: 1
+  - m_Path: Chest.001
+    m_Weight: 1
+  - m_Path: Chest.002
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
+  - m_Path: Cube.001
+    m_Weight: 1
+  - m_Path: Cube.002
+    m_Weight: 1
+  - m_Path: Cube.003
+    m_Weight: 1
+  - m_Path: Cylinder
+    m_Weight: 1
+  - m_Path: Cylinder.001
+    m_Weight: 1
+  - m_Path: Cylinder.002
+    m_Weight: 1
+  - m_Path: Cylinder.003
+    m_Weight: 1
+  - m_Path: Cylinder.006
+    m_Weight: 1
+  - m_Path: Cylinder.007
+    m_Weight: 1
+  - m_Path: GamemodelShape.006
+    m_Weight: 1
+  - m_Path: Jaw
+    m_Weight: 1
+  - m_Path: Legf
+    m_Weight: 1
+  - m_Path: Legf.001
+    m_Weight: 1
+  - m_Path: mesh0.002
+    m_Weight: 1
+  - m_Path: mesh7.002
+    m_Weight: 1
+  - m_Path: model_0
+    m_Weight: 1
+  - m_Path: model_0.002
+    m_Weight: 1
+  - m_Path: Nose
+    m_Weight: 1
+  - m_Path: Scarf
+    m_Weight: 1
+  - m_Path: Scarf.003
+    m_Weight: 1
+  - m_Path: ShoulderPad
+    m_Weight: 1
+  - m_Path: ShoulderUnder
+    m_Weight: 1
+  - m_Path: skeleton.001
+    m_Weight: 1
+  - m_Path: skeleton.002
+    m_Weight: 1
+  - m_Path: skeleton.004
+    m_Weight: 1
+  - m_Path: Skull
+    m_Weight: 1
+  - m_Path: Skull.002
+    m_Weight: 1
+  - m_Path: Sphere.001
+    m_Weight: 1
+  - m_Path: Teeth
+    m_Weight: 1
+  - m_Path: Waist
+    m_Weight: 1
+  - m_Path: Waist.001
+    m_Weight: 1
+  - m_Path: WaistBelt
+    m_Weight: 1

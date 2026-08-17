@@ -1,0 +1,9 @@
+Rot = 15
+Move = 50
+Jump = 10
+Dash = 35
+Grav = 20
+Wall Jump = 15
+
+PlrHeight = 1.25
+ColLayer = Default
