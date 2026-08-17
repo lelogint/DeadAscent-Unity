@@ -19,6 +19,12 @@
 *.blend1
 *.blend1.meta
 
+# Unnecessary to include .fbx or .obj, large files.
+*.fbx
+*.fbx.meta
+*.obj
+*.obj.meta
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
