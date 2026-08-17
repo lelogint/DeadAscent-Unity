@@ -13,5 +13,18 @@ https://freybergdigital.itch.io/death-ascent
 Freyberg Digital website:
 https://digitalinnovationfreyberg.weebly.com/
 
+<table>
+  <tr>
+    <td><img src="/Previews/Image1.png" width="300" height="200"></td>
+    <td><img src="/Previews/Image2.png" width="300" height="200"></td>
+    <td><img src="/Previews/Image3.png" width="300" height="200"></td>
+  </tr>
+  <tr>
+    <td><img src="/Previews/Image4.png" width="300" height="200"></td>
+    <td><img src="/Previews/Image5.png" width="300" height="200"></td>
+    <td><img src="/Previews/Image6.png" width="300" height="200"></td>
+  </tr>
+</table>
+
 
 
