@@ -8,6 +8,9 @@ Programmed in C# language for Unity Engine.
 Platforming game made for class with protagonist as a Skeleton.
 Programming, sounds, media assets (3D models, 2D art assets, animations), by me.
 
+Two releases:
+Version 1.0 zip in releases tab.
+-----------------------------------------------------
 Web version of the game (Hosted by Freyberg Digital):
 https://freybergdigital.itch.io/death-ascent
 
