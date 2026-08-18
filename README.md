@@ -10,7 +10,7 @@ Programming, sounds, media assets (3D models, 2D art assets, animations), by me.
 
 Where to play:
 -----------------------------------------------------
-Version 1.0 Available in releases tab or:
+Version 1.0 Available in releases tab or:<br>
 Web version of the game (Hosted by Freyberg Digital):
 https://freybergdigital.itch.io/death-ascent
 
