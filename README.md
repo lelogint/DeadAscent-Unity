@@ -2,7 +2,7 @@
 
 ###### "Dead Ascent"
 
-Won the Freyberg High School "Distinction Award" for Digital Innovation (2025).
+Won a school "Distinction Award" for Digital Innovation (2025).
 Programmed in C# language for Unity Engine.
 
 Platforming game made for class with protagonist as a Skeleton.
@@ -10,12 +10,9 @@ Programming, sounds, media assets (3D models, 2D art assets, animations), by me.
 
 Where to play:
 -----------------------------------------------------
-Version 1.0 Available in releases tab or:<br>
-Web version of the game (Hosted by Freyberg Digital):
-https://freybergdigital.itch.io/death-ascent
-
-Freyberg Digital website:
-https://digitalinnovationfreyberg.weebly.com/
+Version 1.0 Available in releases tab: 
+or if you want to access web version, contact me.
+If you want details/clarification on anything regarding this project, or the award, let me know.
 
 <table>
   <tr>
